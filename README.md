@@ -1,6 +1,6 @@
 # My-webchat
 
-my webchat is a Web Client that allow user to communicate through WebSocket using your server (made with nodejs,socket.io,express).
+my webchat is a Web Client that allows user to communicate through WebSocket using your server (made with nodejs,socket.io,express).
 
 ## Installation
 
