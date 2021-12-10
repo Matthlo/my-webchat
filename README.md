@@ -2,6 +2,10 @@
 
 my webchat is a Web Client that allows user to communicate through WebSocket using your server (made with nodejs,socket.io,express).
 
+
+https://user-images.githubusercontent.com/70896724/145607201-56938f58-58e6-421b-9de2-c4b233cd6891.mp4
+
+
 ## Installation
 
 Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install my-webchat.
